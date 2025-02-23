@@ -4,7 +4,7 @@ Professional Developer | API Reverse Engineer | AI Specialist
 
 <p align="center">
   <a href="https://discord.com/users/877082451850178642">
-    <img src="https://lanyard.cnrad.dev/api/877082451850178642?theme=dark&animated=true" alt="Discord Presence">
+    <img src="https://lanyard.cnrad.dev/api/922631391806652467?theme=dark&animated=true" alt="Discord Presence">
   </a>
 </p>
 ## About
