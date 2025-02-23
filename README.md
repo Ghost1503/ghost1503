@@ -2,9 +2,11 @@
 
 Professional Developer | API Reverse Engineer | AI Specialist
 
-![Discord](https://img.shields.io/badge/Discord-Ghost-7289DA?style=flat&logo=discord&logoColor=white)
-![Status](https://img.shields.io/endpoint?url=https://api.lanyard.rest/v1/users/877082451850178642/shields/status)
-
+<p align="center">
+  <a href="https://discord.com/users/877082451850178642">
+    <img src="https://lanyard.cnrad.dev/api/877082451850178642?theme=dark&animated=true" alt="Discord Presence">
+  </a>
+</p>
 ## About
 Experienced developer with expertise in API reverse engineering and artificial intelligence. Known professionally as Ghost, I specialize in complex system architecture, automation solutions, and technical implementation.
 
