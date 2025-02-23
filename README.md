@@ -35,6 +35,3 @@ Experienced developer with expertise in API reverse engineering and artificial i
 ## Contact
 - Discord: [Ghost](https://discord.com/users/922631391806652467)
 - Business Inquiries: Available through RazorBoost and RazorCap platforms
-
-## GitHub Analytics
-![Ghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost1503&show_icons=true&theme=dark)
