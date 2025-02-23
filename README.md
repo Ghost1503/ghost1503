@@ -1,4 +1,4 @@
-# Ghost (Khush Jain)
+# Ghost 
 
 Professional Developer | API Reverse Engineer | AI Specialist
 
