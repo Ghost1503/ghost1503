@@ -22,7 +22,7 @@ Experienced developer with expertise in API reverse engineering and artificial i
 
 ## Professional Services
 - [RazorBoost](https://razorboost.in/) - E-commerce platform offering specialized Discord development tools, custom code solutions, and automation services
-- [RazorCap](https://razorcap.xyz/) - Advanced hCaptcha and Cloudflare captcha solver implementation
+- [RazorCap](https://razorcap.xyz/) - hCaptcha and Cloudflare captcha solver implementation
 
 ## Communities
 - [Nightspot Discord](https://discord.gg/nightspot)
