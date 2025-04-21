@@ -8,7 +8,7 @@ class Ghost:
         self.languages = ["Python", "JavaScript", "GO", "WASM"]
         self.learning = "Reverse Engineering"
         self.discord = "https://discord.gg/razorcap"
-        self.sites = ["https://razorcap.xyz", "https://razorboost.in"]
+        self.sites = ["https://razorcap.me", "https://razorboost.in"]
 
 if __name__ == "__main__":
     ghost = Ghost()
