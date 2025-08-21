@@ -7,8 +7,8 @@ class Ghost:
         self.reversed = ["Funcaptcha (Arkose Labs)", "hCaptcha", "Cloudflare"]
         self.languages = ["Python", "JavaScript", "GO", "WASM"]
         self.learning = "Reverse Engineering"
-        self.discord = "https://discord.gg/razorcap"
-        self.sites = ["https://razorcap.me", "https://razorboost.in"]
+        self.discord = "https://discord.gg/razor-cap"
+        self.sites = ["https://razorcap.live", "https://razorboost.in"]
 
 if __name__ == "__main__":
     ghost = Ghost()
